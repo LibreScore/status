@@ -11,14 +11,16 @@ sites:
 
 status-website:
   cname: status.librescore.org
-  theme: ocean
+  theme: light
   logoUrl: https://avatars.githubusercontent.com/u/63520195
+  favicon: https://avatars.githubusercontent.com/u/63520195
+  faviconSvg: https://librescore.org/logo.svg
   name: LibreScore Status
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+    - title: Home
+      href: https://github.com/LibreScore
 
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
+i18n:
+  footer: 🄯 [LibreScore](https://github.com/LibreScore)
