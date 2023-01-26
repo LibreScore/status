@@ -1,6 +1,7 @@
 
 owner: LibreScore # Your GitHub organization or username, where this repository lives
 repo: status # The name of this repository
+user-agent: LibreScore
 
 sites:
   - name: LibreScore App
@@ -19,7 +20,7 @@ status-website:
   navbar:
     - title: Status
       href: /
-    - title: Home
+    - title: Github Home
       href: https://github.com/LibreScore
 
 i18n:
