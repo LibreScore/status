@@ -25,3 +25,7 @@ status-website:
 
 i18n:
   footer: 🄯 [LibreScore](https://github.com/LibreScore)
+
+workflowSchedule:
+  responseTime: "0 * * * *"
+  graphs: "0 */2 * * *"
