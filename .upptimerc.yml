@@ -28,4 +28,4 @@ i18n:
 
 workflowSchedule:
   responseTime: "0 * * * *"
-  graphs: "0 */2 * * *"
+  graphs: "10 */2 * * *"
