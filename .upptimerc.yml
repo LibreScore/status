@@ -7,8 +7,12 @@ sites:
   - name: LibreScore App
     url: $LIBRESCORE_APP_STATUS_ENDPOINT
     icon: https://raw.githubusercontent.com/LibreScore/dl-librescore/master/images/logo.png
-    assignees:
-      - PeterNjeim
+  - name: LibreScore Weblate
+    url: https://librescore.ddns.net/
+#   icon: 
+
+assignees:
+  - PeterNjeim
 
 status-website:
   cname: status.librescore.org
