@@ -8,7 +8,7 @@ sites:
     url: $LIBRESCORE_APP_STATUS_ENDPOINT
     icon: https://raw.githubusercontent.com/LibreScore/dl-librescore/master/images/logo.png
   - name: LibreScore Weblate
-    url: https://librescore.ddns.net/
+    url: https://weblate.librescore.org/
 #   icon: 
 
 assignees:
