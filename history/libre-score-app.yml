@@ -1,7 +1,7 @@
 url: $LIBRESCORE_APP_STATUS_ENDPOINT
 status: up
 code: 200
-responseTime: 795
-lastUpdated: 2023-01-28T22:03:54.509Z
+responseTime: 894
+lastUpdated: 2023-01-28T23:04:47.319Z
 startTime: Thu Jan 26 2023 12:20:04 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
