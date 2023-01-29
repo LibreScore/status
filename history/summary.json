@@ -5,11 +5,11 @@
     "icon": "https://raw.githubusercontent.com/LibreScore/dl-librescore/master/images/logo.png",
     "slug": "libre-score-app",
     "status": "up",
-    "uptime": "97.06%",
+    "uptime": "97.07%",
     "uptimeDay": "97.84%",
-    "uptimeWeek": "97.06%",
-    "uptimeMonth": "97.06%",
-    "uptimeYear": "97.06%",
+    "uptimeWeek": "97.07%",
+    "uptimeMonth": "97.07%",
+    "uptimeYear": "97.07%",
     "time": 1527,
     "timeDay": 1207,
     "timeWeek": 1527,
@@ -27,19 +27,19 @@
     "url": "https://weblate.librescore.org/",
     "icon": "https://icons.duckduckgo.com/ip3/weblate.librescore.org.ico",
     "slug": "libre-score-weblate",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.65%",
+    "uptimeDay": "99.29%",
+    "uptimeWeek": "99.65%",
+    "uptimeMonth": "99.65%",
+    "uptimeYear": "99.65%",
     "time": 628,
-    "timeDay": 740,
+    "timeDay": 735,
     "timeWeek": 628,
     "timeMonth": 628,
     "timeYear": 628,
     "dailyMinutesDown": {
-      "2023-01-29": 0
+      "2023-01-29": 10
     }
   }
 ]
