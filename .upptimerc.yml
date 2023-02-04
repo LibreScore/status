@@ -5,7 +5,7 @@ user-agent: LibreScore
 
 sites:
   - name: LibreScore App
-    url: $LIBRESCORE_APP_STATUS_ENDPOINT
+    url: https://status.librescore.org/app-server
     icon: https://raw.githubusercontent.com/LibreScore/dl-librescore/master/images/logo.png
     headers:
       - $LIBRESCORE_APP_STATUS_HEADERS
