@@ -12,6 +12,11 @@ sites:
   - name: LibreScore Weblate
     url: https://weblate.librescore.org/
 #   icon: 
+  - name: IPFS Service
+    url: $IPFS_SERVICE_ENDPOINT
+    icon: https://ipfs.tech/favicon.ico
+    headers:
+      - $LIBRESCORE_APP_STATUS_HEADERS
 
 assignees:
   - PeterNjeim
