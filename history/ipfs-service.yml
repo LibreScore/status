@@ -1,7 +1,7 @@
 url: $IPFS_SERVICE_ENDPOINT
 status: up
 code: 200
-responseTime: 629
-lastUpdated: 2023-03-28T05:06:04.324Z
+responseTime: 448
+lastUpdated: 2023-03-28T06:08:31.342Z
 startTime: Fri Mar 03 2023 23:41:44 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
