@@ -78,19 +78,19 @@
     "url": "$IPFS_SERVICE_ENDPOINT",
     "icon": "https://ipfs.tech/favicon.ico",
     "slug": "ipfs-service",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 434,
-    "timeDay": 423,
-    "timeWeek": 488,
-    "timeMonth": 434,
-    "timeYear": 434,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.39%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 435,
+    "timeDay": 433,
+    "timeWeek": 489,
+    "timeMonth": 435,
+    "timeYear": 435,
     "dailyMinutesDown": {
-      "2023-03-31": 0
+      "2023-03-31": 9
     }
   }
 ]
