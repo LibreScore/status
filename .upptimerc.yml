@@ -9,17 +9,20 @@ sites:
     icon: https://raw.githubusercontent.com/LibreScore/dl-librescore/master/images/logo.png
     headers:
       - $LIBRESCORE_APP_STATUS_HEADERS
+    assignees:
+      - PeterNjeim
   - name: LibreScore Weblate
     url: https://weblate.librescore.org/
+    assignees:
+      - PeterNjeim
 #   icon: 
   - name: IPFS Service
     url: $IPFS_SERVICE_ENDPOINT
     icon: https://ipfs.tech/favicon.ico
+    assignees:
+      - Xmader
     headers:
       - $LIBRESCORE_APP_STATUS_HEADERS
-
-assignees:
-  - PeterNjeim
 
 status-website:
   cname: status.librescore.org
