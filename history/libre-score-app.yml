@@ -1,7 +1,7 @@
 url: https://status.librescore.org/app-server
-status: down
-code: 503
-responseTime: 7005
-lastUpdated: 2023-05-14T01:05:01.670Z
+status: up
+code: 200
+responseTime: 980
+lastUpdated: 2023-05-14T02:01:45.558Z
 startTime: Thu Jan 26 2023 12:20:04 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
