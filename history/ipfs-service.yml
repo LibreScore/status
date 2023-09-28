@@ -1,7 +1,7 @@
 url: $IPFS_SERVICE_ENDPOINT
 status: down
 code: 502
-responseTime: 535
-lastUpdated: 2023-09-28T09:06:41.876Z
+responseTime: 156
+lastUpdated: 2023-09-28T10:06:39.385Z
 startTime: 2023-03-03T23:41:44.000Z
 generator: Upptime <https://github.com/upptime/upptime>
