@@ -6,17 +6,18 @@
     "slug": "libre-score-app",
     "status": "down",
     "uptime": "37.34%",
-    "uptimeDay": "55.14%",
-    "uptimeWeek": "76.51%",
+    "uptimeDay": "51.23%",
+    "uptimeWeek": "75.95%",
     "uptimeMonth": "21.54%",
-    "uptimeYear": "9.74%",
+    "uptimeYear": "9.73%",
     "time": 6259,
-    "timeDay": 3591,
-    "timeWeek": 2521,
-    "timeMonth": 5620,
+    "timeDay": 3772,
+    "timeWeek": 2550,
+    "timeMonth": 5619,
     "timeYear": 6330,
     "dailyMinutesDown": {
-      "2024-07-06": 646,
+      "2024-07-07": 46,
+      "2024-07-06": 657,
       "2024-07-04": 201,
       "2024-07-03": 1440,
       "2024-07-02": 70,
@@ -381,7 +382,7 @@
     "uptimeYear": "95.96%",
     "time": 581,
     "timeDay": 492,
-    "timeWeek": 503,
+    "timeWeek": 504,
     "timeMonth": 527,
     "timeYear": 581,
     "dailyMinutesDown": {
@@ -472,12 +473,13 @@
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 399,
-    "timeDay": 457,
-    "timeWeek": 495,
+    "timeDay": 468,
+    "timeWeek": 496,
     "timeMonth": 447,
     "timeYear": 400,
     "dailyMinutesDown": {
-      "2024-07-06": 1430,
+      "2024-07-07": 46,
+      "2024-07-06": 1440,
       "2024-07-05": 1440,
       "2024-07-04": 1440,
       "2024-07-03": 1440,
@@ -840,8 +842,7 @@
       "2023-07-12": 1440,
       "2023-07-11": 1440,
       "2023-07-10": 1440,
-      "2023-07-09": 1440,
-      "2023-07-08": 1440
+      "2023-07-09": 1440
     }
   }
 ]
