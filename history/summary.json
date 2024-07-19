@@ -5,16 +5,16 @@
     "icon": "https://raw.githubusercontent.com/LibreScore/dl-librescore/master/images/logo.png",
     "slug": "libre-score-app",
     "status": "up",
-    "uptime": "36.81%",
+    "uptime": "36.93%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "16.33%",
-    "uptimeMonth": "25.41%",
-    "uptimeYear": "7.21%",
-    "time": 6377,
-    "timeDay": 1164,
-    "timeWeek": 5378,
-    "timeMonth": 5209,
-    "timeYear": 6470,
+    "uptimeWeek": "30.62%",
+    "uptimeMonth": "28.70%",
+    "uptimeYear": "7.22%",
+    "time": 6376,
+    "timeDay": 1029,
+    "timeWeek": 4626,
+    "timeMonth": 5022,
+    "timeYear": 6471,
     "dailyMinutesDown": {
       "2024-07-16": 1350,
       "2024-07-15": 1365,
@@ -364,8 +364,7 @@
       "2023-07-24": 24,
       "2023-07-23": 420,
       "2023-07-22": 1424,
-      "2023-07-21": 493,
-      "2023-07-20": 83
+      "2023-07-21": 493
     }
   },
   {
@@ -379,10 +378,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "96.10%",
-    "time": 579,
-    "timeDay": 476,
-    "timeWeek": 496,
-    "timeMonth": 528,
+    "time": 578,
+    "timeDay": 492,
+    "timeWeek": 494,
+    "timeMonth": 524,
     "timeYear": 579,
     "dailyMinutesDown": {
       "2024-07-07": 4,
@@ -465,18 +464,19 @@
     "icon": "https://ipfs.tech/favicon.ico",
     "slug": "ipfs-service",
     "status": "down",
-    "uptime": "23.88%",
+    "uptime": "23.83%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 400,
-    "timeDay": 447,
-    "timeWeek": 445,
+    "timeDay": 448,
+    "timeWeek": 444,
     "timeMonth": 458,
     "timeYear": 398,
     "dailyMinutesDown": {
-      "2024-07-18": 43,
+      "2024-07-19": 43,
+      "2024-07-18": 1440,
       "2024-07-17": 1440,
       "2024-07-16": 1440,
       "2024-07-15": 1440,
@@ -839,8 +839,7 @@
       "2023-07-24": 1440,
       "2023-07-23": 1440,
       "2023-07-22": 1440,
-      "2023-07-21": 1440,
-      "2023-07-20": 1440
+      "2023-07-21": 1440
     }
   }
 ]
