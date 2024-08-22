@@ -5,16 +5,16 @@
     "icon": "https://raw.githubusercontent.com/LibreScore/dl-librescore/master/images/logo.png",
     "slug": "libre-score-app",
     "status": "up",
-    "uptime": "40.53%",
+    "uptime": "40.64%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.07%",
-    "uptimeYear": "10.97%",
-    "time": 6287,
-    "timeDay": 1128,
-    "timeWeek": 1088,
+    "uptimeYear": "11.24%",
+    "time": 6272,
+    "timeDay": 1083,
+    "timeWeek": 1087,
     "timeMonth": 1170,
-    "timeYear": 6281,
+    "timeYear": 6265,
     "dailyMinutesDown": {
       "2024-08-01": 100,
       "2024-07-24": 151,
@@ -345,8 +345,7 @@
       "2023-08-27": 1440,
       "2023-08-26": 1440,
       "2023-08-25": 1440,
-      "2023-08-24": 1440,
-      "2023-08-23": 1440
+      "2023-08-24": 1440
     }
   },
   {
@@ -358,13 +357,13 @@
     "uptime": "97.33%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.11%",
+    "uptimeMonth": "99.15%",
     "uptimeYear": "96.03%",
-    "time": 569,
-    "timeDay": 480,
-    "timeWeek": 476,
-    "timeMonth": 473,
-    "timeYear": 569,
+    "time": 570,
+    "timeDay": 867,
+    "timeWeek": 534,
+    "timeMonth": 487,
+    "timeYear": 570,
     "dailyMinutesDown": {
       "2024-08-18": 8,
       "2024-08-11": 8,
@@ -448,18 +447,19 @@
     "icon": "https://ipfs.tech/favicon.ico",
     "slug": "ipfs-service",
     "status": "down",
-    "uptime": "22.37%",
+    "uptime": "22.32%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 395,
-    "timeDay": 469,
-    "timeWeek": 436,
-    "timeMonth": 447,
+    "timeDay": 512,
+    "timeWeek": 454,
+    "timeMonth": 448,
     "timeYear": 393,
     "dailyMinutesDown": {
-      "2024-08-21": 44,
+      "2024-08-22": 45,
+      "2024-08-21": 1440,
       "2024-08-20": 1440,
       "2024-08-19": 1440,
       "2024-08-18": 1440,
@@ -822,8 +822,7 @@
       "2023-08-27": 1440,
       "2023-08-26": 1440,
       "2023-08-25": 1440,
-      "2023-08-24": 1440,
-      "2023-08-23": 1440
+      "2023-08-24": 1440
     }
   }
 ]
