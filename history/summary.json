@@ -5,16 +5,16 @@
     "icon": "https://raw.githubusercontent.com/LibreScore/dl-librescore/master/images/logo.png",
     "slug": "libre-score-app",
     "status": "up",
-    "uptime": "41.54%",
+    "uptime": "41.64%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.83%",
     "uptimeMonth": "99.50%",
-    "uptimeYear": "13.69%",
-    "time": 6140,
-    "timeDay": 1024,
-    "timeWeek": 1182,
-    "timeMonth": 1148,
-    "timeYear": 6131,
+    "uptimeYear": "13.96%",
+    "time": 6125,
+    "timeDay": 1083,
+    "timeWeek": 1192,
+    "timeMonth": 1151,
+    "timeYear": 6116,
     "dailyMinutesDown": {
       "2024-08-27": 118,
       "2024-08-01": 100,
@@ -336,8 +336,7 @@
       "2023-09-06": 1440,
       "2023-09-05": 1440,
       "2023-09-04": 1440,
-      "2023-09-03": 1440,
-      "2023-09-02": 1440
+      "2023-09-03": 1440
     }
   },
   {
@@ -346,16 +345,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/weblate.librescore.org.ico",
     "slug": "libre-score-weblate",
     "status": "up",
-    "uptime": "97.37%",
+    "uptime": "97.38%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.90%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "96.03%",
     "time": 567,
-    "timeDay": 451,
-    "timeWeek": 458,
+    "timeDay": 472,
+    "timeWeek": 465,
     "timeMonth": 485,
-    "timeYear": 567,
+    "timeYear": 566,
     "dailyMinutesDown": {
       "2024-08-25": 10,
       "2024-08-18": 8,
@@ -439,18 +438,19 @@
     "icon": "https://ipfs.tech/favicon.ico",
     "slug": "ipfs-service",
     "status": "down",
-    "uptime": "21.96%",
+    "uptime": "21.92%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 393,
-    "timeDay": 600,
-    "timeWeek": 465,
+    "timeDay": 445,
+    "timeWeek": 471,
     "timeMonth": 449,
     "timeYear": 393,
     "dailyMinutesDown": {
-      "2024-08-31": 46,
+      "2024-09-01": 56,
+      "2024-08-31": 1440,
       "2024-08-30": 1440,
       "2024-08-29": 1440,
       "2024-08-28": 1440,
@@ -813,8 +813,7 @@
       "2023-09-06": 1440,
       "2023-09-05": 1440,
       "2023-09-04": 1440,
-      "2023-09-03": 1440,
-      "2023-09-02": 1440
+      "2023-09-03": 1440
     }
   }
 ]
