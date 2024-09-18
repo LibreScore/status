@@ -5,16 +5,16 @@
     "icon": "https://raw.githubusercontent.com/LibreScore/dl-librescore/master/images/logo.png",
     "slug": "libre-score-app",
     "status": "up",
-    "uptime": "43.18%",
+    "uptime": "43.28%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.34%",
     "uptimeMonth": "98.79%",
-    "uptimeYear": "18.26%",
-    "time": 5893,
-    "timeDay": 1099,
-    "timeWeek": 1184,
-    "timeMonth": 1197,
-    "timeYear": 5877,
+    "uptimeYear": "18.54%",
+    "time": 5877,
+    "timeDay": 1108,
+    "timeWeek": 1176,
+    "timeMonth": 1199,
+    "timeYear": 5862,
     "dailyMinutesDown": {
       "2024-09-12": 67,
       "2024-09-06": 106,
@@ -323,8 +323,7 @@
       "2023-09-23": 1440,
       "2023-09-22": 1440,
       "2023-09-21": 1440,
-      "2023-09-20": 1440,
-      "2023-09-19": 1440
+      "2023-09-20": 1440
     }
   },
   {
@@ -338,11 +337,11 @@
     "uptimeWeek": "99.82%",
     "uptimeMonth": "99.84%",
     "uptimeYear": "96.70%",
-    "time": 558,
-    "timeDay": 460,
-    "timeWeek": 477,
-    "timeMonth": 480,
-    "timeYear": 556,
+    "time": 557,
+    "timeDay": 437,
+    "timeWeek": 469,
+    "timeMonth": 479,
+    "timeYear": 553,
     "dailyMinutesDown": {
       "2024-09-15": 18,
       "2024-09-08": 16,
@@ -422,18 +421,19 @@
     "icon": "https://ipfs.tech/favicon.ico",
     "slug": "ipfs-service",
     "status": "down",
-    "uptime": "21.29%",
+    "uptime": "21.26%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 397,
-    "timeDay": 393,
-    "timeWeek": 431,
+    "timeDay": 444,
+    "timeWeek": 436,
     "timeMonth": 440,
     "timeYear": 398,
     "dailyMinutesDown": {
-      "2024-09-17": 39,
+      "2024-09-18": 47,
+      "2024-09-17": 1440,
       "2024-09-16": 1440,
       "2024-09-15": 1440,
       "2024-09-14": 1440,
@@ -796,8 +796,7 @@
       "2023-09-23": 1440,
       "2023-09-22": 1440,
       "2023-09-21": 1440,
-      "2023-09-20": 1440,
-      "2023-09-19": 1440
+      "2023-09-20": 1440
     }
   }
 ]
