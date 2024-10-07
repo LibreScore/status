@@ -5,16 +5,16 @@
     "icon": "https://raw.githubusercontent.com/LibreScore/dl-librescore/master/images/logo.png",
     "slug": "libre-score-app",
     "status": "up",
-    "uptime": "44.88%",
+    "uptime": "44.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.80%",
-    "uptimeMonth": "98.07%",
-    "uptimeYear": "23.41%",
-    "time": 5618,
-    "timeDay": 1081,
-    "timeWeek": 1142,
-    "timeMonth": 1323,
-    "timeYear": 5598,
+    "uptimeMonth": "98.13%",
+    "uptimeYear": "23.60%",
+    "time": 5608,
+    "timeDay": 1097,
+    "timeWeek": 1135,
+    "timeMonth": 1321,
+    "timeYear": 5587,
     "dailyMinutesDown": {
       "2024-10-02": 21,
       "2024-09-19": 118,
@@ -307,8 +307,7 @@
       "2023-10-12": 1440,
       "2023-10-11": 1440,
       "2023-10-10": 1431,
-      "2023-10-09": 1440,
-      "2023-10-08": 1440
+      "2023-10-09": 1440
     }
   },
   {
@@ -317,15 +316,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/weblate.librescore.org.ico",
     "slug": "libre-score-weblate",
     "status": "up",
-    "uptime": "97.42%",
+    "uptime": "97.43%",
     "uptimeDay": "99.95%",
     "uptimeWeek": "99.99%",
     "uptimeMonth": "97.70%",
     "uptimeYear": "96.52%",
     "time": 549,
-    "timeDay": 565,
-    "timeWeek": 489,
-    "timeMonth": 484,
+    "timeDay": 577,
+    "timeWeek": 488,
+    "timeMonth": 483,
     "timeYear": 548,
     "dailyMinutesDown": {
       "2024-10-06": 1,
@@ -400,8 +399,7 @@
       "2023-10-25": 251,
       "2023-10-22": 10,
       "2023-10-15": 10,
-      "2023-10-13": 9,
-      "2023-10-08": 10
+      "2023-10-13": 9
     }
   },
   {
@@ -410,18 +408,19 @@
     "icon": "https://ipfs.tech/favicon.ico",
     "slug": "ipfs-service",
     "status": "down",
-    "uptime": "20.59%",
+    "uptime": "20.56%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 401,
-    "timeDay": 402,
-    "timeWeek": 442,
+    "timeDay": 447,
+    "timeWeek": 443,
     "timeMonth": 447,
     "timeYear": 401,
     "dailyMinutesDown": {
-      "2024-10-06": 492,
+      "2024-10-07": 52,
+      "2024-10-06": 1440,
       "2024-10-05": 1440,
       "2024-10-04": 1440,
       "2024-10-03": 1440,
@@ -784,8 +783,7 @@
       "2023-10-12": 1440,
       "2023-10-11": 1440,
       "2023-10-10": 1440,
-      "2023-10-09": 1440,
-      "2023-10-08": 1440
+      "2023-10-09": 1440
     }
   }
 ]
