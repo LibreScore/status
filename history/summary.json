@@ -5,16 +5,16 @@
     "icon": "https://raw.githubusercontent.com/LibreScore/dl-librescore/master/images/logo.png",
     "slug": "libre-score-app",
     "status": "up",
-    "uptime": "46.83%",
+    "uptime": "46.91%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.86%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.78%",
-    "uptimeYear": "29.61%",
-    "time": 5287,
-    "timeDay": 1169,
-    "timeWeek": 1194,
-    "timeMonth": 1164,
-    "timeYear": 5254,
+    "uptimeYear": "29.89%",
+    "time": 5272,
+    "timeDay": 1191,
+    "timeWeek": 1168,
+    "timeMonth": 1166,
+    "timeYear": 5238,
     "dailyMinutesDown": {
       "2024-10-22": 14,
       "2024-10-11": 60,
@@ -286,8 +286,7 @@
       "2023-11-04": 1440,
       "2023-11-03": 1440,
       "2023-11-02": 1440,
-      "2023-11-01": 1440,
-      "2023-10-31": 1440
+      "2023-11-01": 1440
     }
   },
   {
@@ -299,12 +298,12 @@
     "uptime": "97.53%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.13%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "96.57%",
     "time": 543,
-    "timeDay": 457,
-    "timeWeek": 487,
-    "timeMonth": 502,
+    "timeDay": 522,
+    "timeWeek": 490,
+    "timeMonth": 496,
     "timeYear": 543,
     "dailyMinutesDown": {
       "2024-10-13": 22,
@@ -385,18 +384,19 @@
     "icon": "https://ipfs.tech/favicon.ico",
     "slug": "ipfs-service",
     "status": "down",
-    "uptime": "19.82%",
+    "uptime": "19.78%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 408,
-    "timeDay": 464,
-    "timeWeek": 450,
-    "timeMonth": 456,
+    "time": 409,
+    "timeDay": 481,
+    "timeWeek": 454,
+    "timeMonth": 457,
     "timeYear": 409,
     "dailyMinutesDown": {
-      "2024-10-29": 53,
+      "2024-10-30": 51,
+      "2024-10-29": 1440,
       "2024-10-28": 1440,
       "2024-10-27": 1440,
       "2024-10-26": 1440,
@@ -759,8 +759,7 @@
       "2023-11-04": 1440,
       "2023-11-03": 1440,
       "2023-11-02": 1440,
-      "2023-11-01": 1440,
-      "2023-10-31": 1440
+      "2023-11-01": 1440
     }
   }
 ]
