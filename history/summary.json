@@ -5,16 +5,16 @@
     "icon": "https://raw.githubusercontent.com/LibreScore/dl-librescore/master/images/logo.png",
     "slug": "libre-score-app",
     "status": "up",
-    "uptime": "49.86%",
+    "uptime": "49.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.75%",
-    "uptimeYear": "40.00%",
-    "time": 4705,
-    "timeDay": 1047,
-    "timeWeek": 1084,
-    "timeMonth": 1163,
-    "timeYear": 4655,
+    "uptimeMonth": "99.77%",
+    "uptimeYear": "40.27%",
+    "time": 4690,
+    "timeDay": 1087,
+    "timeWeek": 1088,
+    "timeMonth": 1152,
+    "timeYear": 4640,
     "dailyMinutesDown": {
       "2024-11-21": 25,
       "2024-11-20": 16,
@@ -257,8 +257,7 @@
       "2023-12-12": 1440,
       "2023-12-11": 1440,
       "2023-12-10": 1440,
-      "2023-12-09": 1440,
-      "2023-12-08": 1440
+      "2023-12-09": 1440
     }
   },
   {
@@ -273,9 +272,9 @@
     "uptimeMonth": "99.70%",
     "uptimeYear": "96.58%",
     "time": 541,
-    "timeDay": 488,
-    "timeWeek": 493,
-    "timeMonth": 488,
+    "timeDay": 486,
+    "timeWeek": 491,
+    "timeMonth": 489,
     "timeYear": 541,
     "dailyMinutesDown": {
       "2024-12-01": 7,
@@ -354,18 +353,19 @@
     "icon": "https://ipfs.tech/favicon.ico",
     "slug": "ipfs-service",
     "status": "down",
-    "uptime": "18.64%",
+    "uptime": "18.62%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 418,
-    "timeDay": 475,
-    "timeWeek": 469,
-    "timeMonth": 468,
+    "timeDay": 471,
+    "timeWeek": 472,
+    "timeMonth": 470,
     "timeYear": 419,
     "dailyMinutesDown": {
-      "2024-12-06": 55,
+      "2024-12-07": 55,
+      "2024-12-06": 1440,
       "2024-12-05": 1440,
       "2024-12-04": 1440,
       "2024-12-03": 1440,
@@ -728,8 +728,7 @@
       "2023-12-12": 1440,
       "2023-12-11": 1440,
       "2023-12-10": 1440,
-      "2023-12-09": 1440,
-      "2023-12-08": 1440
+      "2023-12-09": 1440
     }
   }
 ]
