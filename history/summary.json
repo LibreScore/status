@@ -5,16 +5,16 @@
     "icon": "https://raw.githubusercontent.com/LibreScore/dl-librescore/master/images/logo.png",
     "slug": "libre-score-app",
     "status": "up",
-    "uptime": "50.08%",
-    "uptimeDay": "99.83%",
+    "uptime": "50.15%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.98%",
     "uptimeMonth": "99.85%",
-    "uptimeYear": "40.82%",
-    "time": 4659,
-    "timeDay": 1272,
-    "timeWeek": 1105,
-    "timeMonth": 1138,
-    "timeYear": 4608,
+    "uptimeYear": "41.10%",
+    "time": 4644,
+    "timeDay": 1027,
+    "timeWeek": 1091,
+    "timeMonth": 1137,
+    "timeYear": 4591,
     "dailyMinutesDown": {
       "2024-12-08": 3,
       "2024-11-21": 25,
@@ -255,8 +255,7 @@
       "2023-12-15": 1440,
       "2023-12-14": 1440,
       "2023-12-13": 1440,
-      "2023-12-12": 1440,
-      "2023-12-11": 1440
+      "2023-12-12": 1440
     }
   },
   {
@@ -271,9 +270,9 @@
     "uptimeMonth": "99.70%",
     "uptimeYear": "96.58%",
     "time": 540,
-    "timeDay": 508,
-    "timeWeek": 481,
-    "timeMonth": 489,
+    "timeDay": 444,
+    "timeWeek": 476,
+    "timeMonth": 488,
     "timeYear": 541,
     "dailyMinutesDown": {
       "2024-12-01": 7,
@@ -341,8 +340,7 @@
       "2023-12-21": 237,
       "2023-12-19": 10,
       "2023-12-17": 7,
-      "2023-12-15": 10,
-      "2023-12-11": 20
+      "2023-12-15": 10
     }
   },
   {
@@ -351,18 +349,19 @@
     "icon": "https://ipfs.tech/favicon.ico",
     "slug": "ipfs-service",
     "status": "down",
-    "uptime": "18.56%",
+    "uptime": "18.53%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 419,
-    "timeDay": 508,
-    "timeWeek": 470,
-    "timeMonth": 472,
+    "timeDay": 422,
+    "timeWeek": 460,
+    "timeMonth": 471,
     "timeYear": 420,
     "dailyMinutesDown": {
-      "2024-12-09": 57,
+      "2024-12-10": 57,
+      "2024-12-09": 1440,
       "2024-12-08": 1440,
       "2024-12-07": 1440,
       "2024-12-06": 1440,
@@ -725,8 +724,7 @@
       "2023-12-15": 1440,
       "2023-12-14": 1440,
       "2023-12-13": 1440,
-      "2023-12-12": 1440,
-      "2023-12-11": 1440
+      "2023-12-12": 1440
     }
   }
 ]
