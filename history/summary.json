@@ -5,16 +5,16 @@
     "icon": "https://raw.githubusercontent.com/LibreScore/dl-librescore/master/images/logo.png",
     "slug": "libre-score-app",
     "status": "up",
-    "uptime": "50.80%",
-    "uptimeDay": "93.97%",
+    "uptime": "50.87%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.04%",
     "uptimeMonth": "99.68%",
-    "uptimeYear": "43.54%",
-    "time": 4477,
-    "timeDay": 1484,
-    "timeWeek": 1140,
-    "timeMonth": 1128,
-    "timeYear": 4448,
+    "uptimeYear": "43.82%",
+    "time": 4461,
+    "timeDay": 1047,
+    "timeWeek": 1138,
+    "timeMonth": 1122,
+    "timeYear": 4431,
     "dailyMinutesDown": {
       "2024-12-18": 87,
       "2024-12-14": 10,
@@ -247,8 +247,7 @@
       "2023-12-25": 1440,
       "2023-12-24": 1440,
       "2023-12-23": 1440,
-      "2023-12-22": 1440,
-      "2023-12-21": 1440
+      "2023-12-22": 1440
     }
   },
   {
@@ -257,14 +256,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/weblate.librescore.org.ico",
     "slug": "libre-score-weblate",
     "status": "up",
-    "uptime": "97.70%",
+    "uptime": "97.71%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.98%",
     "uptimeYear": "96.59%",
-    "time": 541,
-    "timeDay": 488,
-    "timeWeek": 476,
+    "time": 540,
+    "timeDay": 500,
+    "timeWeek": 484,
     "timeMonth": 496,
     "timeYear": 541,
     "dailyMinutesDown": {
@@ -329,8 +328,7 @@
       "2024-01-10": 31,
       "2024-01-07": 10,
       "2023-12-31": 16,
-      "2023-12-24": 14,
-      "2023-12-21": 237
+      "2023-12-24": 14
     }
   },
   {
@@ -339,18 +337,19 @@
     "icon": "https://ipfs.tech/favicon.ico",
     "slug": "ipfs-service",
     "status": "down",
-    "uptime": "18.28%",
+    "uptime": "18.25%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 421,
-    "timeDay": 446,
-    "timeWeek": 456,
-    "timeMonth": 471,
+    "timeDay": 421,
+    "timeWeek": 457,
+    "timeMonth": 469,
     "timeYear": 422,
     "dailyMinutesDown": {
-      "2024-12-19": 55,
+      "2024-12-20": 51,
+      "2024-12-19": 1440,
       "2024-12-18": 1440,
       "2024-12-17": 1440,
       "2024-12-16": 1440,
@@ -713,8 +712,7 @@
       "2023-12-25": 1440,
       "2023-12-24": 1440,
       "2023-12-23": 1440,
-      "2023-12-22": 1440,
-      "2023-12-21": 1440
+      "2023-12-22": 1440
     }
   }
 ]
