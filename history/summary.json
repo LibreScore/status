@@ -5,16 +5,16 @@
     "icon": "https://raw.githubusercontent.com/LibreScore/dl-librescore/master/images/logo.png",
     "slug": "libre-score-app",
     "status": "up",
-    "uptime": "51.01%",
+    "uptime": "51.08%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.14%",
     "uptimeMonth": "99.77%",
-    "uptimeYear": "44.36%",
-    "time": 4430,
-    "timeDay": 1107,
-    "timeWeek": 1124,
+    "uptimeYear": "44.64%",
+    "time": 4415,
+    "timeDay": 1036,
+    "timeWeek": 1121,
     "timeMonth": 1098,
-    "timeYear": 4398,
+    "timeYear": 4382,
     "dailyMinutesDown": {
       "2024-12-18": 87,
       "2024-12-14": 10,
@@ -244,8 +244,7 @@
       "2023-12-28": 1440,
       "2023-12-27": 1440,
       "2023-12-26": 1440,
-      "2023-12-25": 1440,
-      "2023-12-24": 1440
+      "2023-12-25": 1440
     }
   },
   {
@@ -254,15 +253,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/weblate.librescore.org.ico",
     "slug": "libre-score-weblate",
     "status": "up",
-    "uptime": "97.71%",
+    "uptime": "97.72%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.98%",
     "uptimeYear": "96.64%",
     "time": 540,
-    "timeDay": 461,
+    "timeDay": 515,
     "timeWeek": 485,
-    "timeMonth": 493,
+    "timeMonth": 494,
     "timeYear": 538,
     "dailyMinutesDown": {
       "2024-12-01": 7,
@@ -325,8 +324,7 @@
       "2024-01-14": 8,
       "2024-01-10": 31,
       "2024-01-07": 10,
-      "2023-12-31": 16,
-      "2023-12-24": 14
+      "2023-12-31": 16
     }
   },
   {
@@ -335,18 +333,19 @@
     "icon": "https://ipfs.tech/favicon.ico",
     "slug": "ipfs-service",
     "status": "down",
-    "uptime": "18.19%",
+    "uptime": "18.16%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 421,
-    "timeDay": 465,
-    "timeWeek": 454,
-    "timeMonth": 468,
-    "timeYear": 422,
+    "time": 422,
+    "timeDay": 431,
+    "timeWeek": 451,
+    "timeMonth": 467,
+    "timeYear": 423,
     "dailyMinutesDown": {
-      "2024-12-22": 56,
+      "2024-12-23": 53,
+      "2024-12-22": 1440,
       "2024-12-21": 1440,
       "2024-12-20": 1440,
       "2024-12-19": 1440,
@@ -709,8 +708,7 @@
       "2023-12-28": 1440,
       "2023-12-27": 1440,
       "2023-12-26": 1440,
-      "2023-12-25": 1440,
-      "2023-12-24": 1440
+      "2023-12-25": 1440
     }
   }
 ]
