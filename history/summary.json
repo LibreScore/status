@@ -5,16 +5,16 @@
     "icon": "https://raw.githubusercontent.com/LibreScore/dl-librescore/master/images/logo.png",
     "slug": "libre-score-app",
     "status": "up",
-    "uptime": "54.22%",
+    "uptime": "54.26%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "97.03%",
     "uptimeMonth": "98.25%",
-    "uptimeYear": "57.73%",
-    "time": 3682,
-    "timeDay": 1088,
-    "timeWeek": 1260,
-    "timeMonth": 1226,
-    "timeYear": 3572,
+    "uptimeYear": "57.90%",
+    "time": 3666,
+    "timeDay": 1067,
+    "timeWeek": 1258,
+    "timeMonth": 1225,
+    "timeYear": 3562,
     "dailyMinutesDown": {
       "2025-02-07": 288,
       "2025-02-05": 12,
@@ -207,8 +207,7 @@
       "2024-02-15": 1440,
       "2024-02-14": 1440,
       "2024-02-13": 1440,
-      "2024-02-12": 1440,
-      "2024-02-11": 1440
+      "2024-02-12": 1440
     }
   },
   {
@@ -222,9 +221,9 @@
     "uptimeWeek": "99.88%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.45%",
-    "time": 530,
-    "timeDay": 497,
-    "timeWeek": 474,
+    "time": 528,
+    "timeDay": 469,
+    "timeWeek": 473,
     "timeMonth": 483,
     "timeYear": 496,
     "dailyMinutesDown": {
@@ -273,8 +272,7 @@
       "2024-03-12": 334,
       "2024-03-10": 14,
       "2024-02-29": 416,
-      "2024-02-25": 12,
-      "2024-02-11": 16
+      "2024-02-25": 12
     }
   },
   {
@@ -283,18 +281,19 @@
     "icon": "https://ipfs.tech/favicon.ico",
     "slug": "ipfs-service",
     "status": "down",
-    "uptime": "16.92%",
+    "uptime": "16.91%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 432,
-    "timeDay": 448,
-    "timeWeek": 423,
-    "timeMonth": 449,
+    "timeDay": 427,
+    "timeWeek": 422,
+    "timeMonth": 448,
     "timeYear": 433,
     "dailyMinutesDown": {
-      "2025-02-09": 560,
+      "2025-02-10": 52,
+      "2025-02-09": 1440,
       "2025-02-08": 1440,
       "2025-02-07": 1440,
       "2025-02-06": 1440,
@@ -657,8 +656,7 @@
       "2024-02-15": 1440,
       "2024-02-14": 1440,
       "2024-02-13": 1440,
-      "2024-02-12": 1440,
-      "2024-02-11": 1440
+      "2024-02-12": 1440
     }
   }
 ]
