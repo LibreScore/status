@@ -5,16 +5,16 @@
     "icon": "https://raw.githubusercontent.com/LibreScore/dl-librescore/master/images/logo.png",
     "slug": "libre-score-app",
     "status": "up",
-    "uptime": "57.34%",
+    "uptime": "57.35%",
     "uptimeDay": "96.89%",
     "uptimeWeek": "92.96%",
     "uptimeMonth": "97.16%",
-    "uptimeYear": "73.15%",
-    "time": 2765,
-    "timeDay": 1633,
-    "timeWeek": 1570,
-    "timeMonth": 1286,
-    "timeYear": 2678,
+    "uptimeYear": "73.20%",
+    "time": 2763,
+    "timeDay": 1622,
+    "timeWeek": 1571,
+    "timeMonth": 1285,
+    "timeYear": 2675,
     "dailyMinutesDown": {
       "2025-04-06": 45,
       "2025-04-05": 610,
@@ -166,8 +166,7 @@
       "2024-04-11": 1440,
       "2024-04-10": 1440,
       "2024-04-09": 1440,
-      "2024-04-08": 1440,
-      "2024-04-07": 1440
+      "2024-04-08": 1440
     }
   },
   {
@@ -182,9 +181,9 @@
     "uptimeMonth": "99.85%",
     "uptimeYear": "99.58%",
     "time": 489,
-    "timeDay": 477,
-    "timeWeek": 430,
-    "timeMonth": 441,
+    "timeDay": 474,
+    "timeWeek": 431,
+    "timeMonth": 440,
     "timeYear": 489,
     "dailyMinutesDown": {
       "2025-04-06": 17,
@@ -231,8 +230,7 @@
       "2024-05-05": 10,
       "2024-04-28": 18,
       "2024-04-21": 9,
-      "2024-04-14": 150,
-      "2024-04-07": 14
+      "2024-04-14": 150
     }
   },
   {
@@ -247,12 +245,13 @@
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 439,
-    "timeDay": 464,
-    "timeWeek": 389,
+    "timeDay": 471,
+    "timeWeek": 393,
     "timeMonth": 405,
     "timeYear": 440,
     "dailyMinutesDown": {
-      "2025-04-06": 1257,
+      "2025-04-07": 57,
+      "2025-04-06": 1440,
       "2025-04-05": 1440,
       "2025-04-04": 1440,
       "2025-04-03": 1440,
@@ -615,8 +614,7 @@
       "2024-04-11": 1440,
       "2024-04-10": 1440,
       "2024-04-09": 1440,
-      "2024-04-08": 1440,
-      "2024-04-07": 1440
+      "2024-04-08": 1440
     }
   }
 ]
