@@ -5,16 +5,16 @@
     "icon": "https://raw.githubusercontent.com/LibreScore/dl-librescore/master/images/logo.png",
     "slug": "libre-score-app",
     "status": "up",
-    "uptime": "57.92%",
+    "uptime": "57.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.91%",
-    "uptimeMonth": "97.62%",
-    "uptimeYear": "76.17%",
-    "time": 2601,
-    "timeDay": 1129,
-    "timeWeek": 1158,
-    "timeMonth": 1288,
-    "timeYear": 2514,
+    "uptimeMonth": "97.67%",
+    "uptimeYear": "76.45%",
+    "time": 2586,
+    "timeDay": 1126,
+    "timeWeek": 1159,
+    "timeMonth": 1279,
+    "timeYear": 2498,
     "dailyMinutesDown": {
       "2025-04-12": 9,
       "2025-04-09": 67,
@@ -157,8 +157,7 @@
       "2024-04-23": 1440,
       "2024-04-22": 1440,
       "2024-04-21": 1440,
-      "2024-04-20": 1440,
-      "2024-04-19": 1440
+      "2024-04-20": 1440
     }
   },
   {
@@ -168,14 +167,14 @@
     "slug": "libre-score-weblate",
     "status": "up",
     "uptime": "98.37%",
-    "uptimeDay": "95.73%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "97.53%",
     "uptimeMonth": "99.04%",
     "uptimeYear": "99.54%",
     "time": 489,
-    "timeDay": 484,
-    "timeWeek": 537,
-    "timeMonth": 451,
+    "timeDay": 497,
+    "timeWeek": 539,
+    "timeMonth": 453,
     "timeYear": 489,
     "dailyMinutesDown": {
       "2025-04-17": 62,
@@ -234,18 +233,19 @@
     "icon": "https://ipfs.tech/favicon.ico",
     "slug": "ipfs-service",
     "status": "down",
-    "uptime": "15.45%",
+    "uptime": "15.43%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 441,
-    "timeDay": 499,
+    "time": 442,
+    "timeDay": 480,
     "timeWeek": 506,
     "timeMonth": 407,
     "timeYear": 442,
     "dailyMinutesDown": {
-      "2025-04-18": 56,
+      "2025-04-19": 54,
+      "2025-04-18": 1440,
       "2025-04-17": 1440,
       "2025-04-16": 1440,
       "2025-04-15": 1440,
@@ -608,8 +608,7 @@
       "2024-04-23": 1440,
       "2024-04-22": 1440,
       "2024-04-21": 1440,
-      "2024-04-20": 1440,
-      "2024-04-19": 1440
+      "2024-04-20": 1440
     }
   }
 ]
