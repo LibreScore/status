@@ -5,16 +5,16 @@
     "icon": "https://raw.githubusercontent.com/LibreScore/dl-librescore/master/images/logo.png",
     "slug": "libre-score-app",
     "status": "up",
-    "uptime": "58.52%",
+    "uptime": "58.57%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.75%",
-    "uptimeMonth": "97.13%",
-    "uptimeYear": "79.40%",
-    "time": 2422,
-    "timeDay": 1198,
-    "timeWeek": 1146,
-    "timeMonth": 1332,
-    "timeYear": 2326,
+    "uptimeMonth": "97.21%",
+    "uptimeYear": "79.68%",
+    "time": 2407,
+    "timeDay": 1153,
+    "timeWeek": 1151,
+    "timeMonth": 1342,
+    "timeYear": 2310,
     "dailyMinutesDown": {
       "2025-04-26": 25,
       "2025-04-19": 270,
@@ -147,8 +147,7 @@
       "2024-05-05": 1440,
       "2024-05-04": 1440,
       "2024-05-03": 1440,
-      "2024-05-02": 1440,
-      "2024-05-01": 1440
+      "2024-05-02": 1440
     }
   },
   {
@@ -163,9 +162,9 @@
     "uptimeMonth": "99.04%",
     "uptimeYear": "99.54%",
     "time": 490,
-    "timeDay": 541,
-    "timeWeek": 503,
-    "timeMonth": 484,
+    "timeDay": 486,
+    "timeWeek": 496,
+    "timeMonth": 491,
     "timeYear": 488,
     "dailyMinutesDown": {
       "2025-04-27": 4,
@@ -224,18 +223,19 @@
     "icon": "https://ipfs.tech/favicon.ico",
     "slug": "ipfs-service",
     "status": "down",
-    "uptime": "15.21%",
+    "uptime": "15.19%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
+    "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 444,
-    "timeDay": 580,
-    "timeWeek": 483,
-    "timeMonth": 459,
+    "time": 445,
+    "timeDay": 523,
+    "timeWeek": 481,
+    "timeMonth": 473,
     "timeYear": 445,
     "dailyMinutesDown": {
-      "2025-04-30": 58,
+      "2025-05-01": 63,
+      "2025-04-30": 1440,
       "2025-04-29": 1440,
       "2025-04-28": 1440,
       "2025-04-27": 1440,
@@ -598,8 +598,7 @@
       "2024-05-05": 1440,
       "2024-05-04": 1440,
       "2024-05-03": 1440,
-      "2024-05-02": 1440,
-      "2024-05-01": 1440
+      "2024-05-02": 1440
     }
   }
 ]
