@@ -5,16 +5,16 @@
     "icon": "https://raw.githubusercontent.com/LibreScore/dl-librescore/master/images/logo.png",
     "slug": "libre-score-app",
     "status": "up",
-    "uptime": "60.03%",
+    "uptime": "60.08%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "95.70%",
-    "uptimeMonth": "98.87%",
-    "uptimeYear": "88.08%",
-    "time": 1884,
-    "timeDay": 1128,
-    "timeWeek": 1381,
-    "timeMonth": 1188,
-    "timeYear": 1821,
+    "uptimeMonth": "98.91%",
+    "uptimeYear": "88.35%",
+    "time": 1869,
+    "timeDay": 1052,
+    "timeWeek": 1382,
+    "timeMonth": 1181,
+    "timeYear": 1805,
     "dailyMinutesDown": {
       "2025-05-30": 21,
       "2025-05-29": 413,
@@ -121,8 +121,7 @@
       "2024-06-06": 1440,
       "2024-06-05": 1440,
       "2024-06-04": 1440,
-      "2024-06-03": 1440,
-      "2024-06-02": 1440
+      "2024-06-03": 1440
     }
   },
   {
@@ -133,14 +132,14 @@
     "status": "up",
     "uptime": "98.45%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.38%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.81%",
     "uptimeYear": "99.53%",
     "time": 491,
-    "timeDay": 500,
-    "timeWeek": 512,
-    "timeMonth": 524,
-    "timeYear": 490,
+    "timeDay": 516,
+    "timeWeek": 495,
+    "timeMonth": 525,
+    "timeYear": 491,
     "dailyMinutesDown": {
       "2025-05-25": 62,
       "2025-05-11": 13,
@@ -187,8 +186,7 @@
       "2024-06-20": 11,
       "2024-06-16": 16,
       "2024-06-09": 43,
-      "2024-06-04": 53,
-      "2024-06-02": 15
+      "2024-06-04": 53
     }
   },
   {
@@ -197,18 +195,19 @@
     "icon": "https://ipfs.tech/favicon.ico",
     "slug": "ipfs-service",
     "status": "down",
-    "uptime": "14.62%",
+    "uptime": "14.60%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 452,
-    "timeDay": 522,
-    "timeWeek": 490,
+    "time": 453,
+    "timeDay": 498,
+    "timeWeek": 499,
     "timeMonth": 502,
-    "timeYear": 453,
+    "timeYear": 454,
     "dailyMinutesDown": {
-      "2025-06-01": 71,
+      "2025-06-02": 62,
+      "2025-06-01": 1440,
       "2025-05-31": 1440,
       "2025-05-30": 1440,
       "2025-05-29": 1440,
@@ -571,8 +570,7 @@
       "2024-06-06": 1440,
       "2024-06-05": 1440,
       "2024-06-04": 1440,
-      "2024-06-03": 1440,
-      "2024-06-02": 1440
+      "2024-06-03": 1440
     }
   }
 ]
