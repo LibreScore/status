@@ -5,16 +5,16 @@
     "icon": "https://raw.githubusercontent.com/LibreScore/dl-librescore/master/images/logo.png",
     "slug": "libre-score-app",
     "status": "up",
-    "uptime": "60.40%",
+    "uptime": "60.45%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "95.51%",
+    "uptimeWeek": "99.60%",
     "uptimeMonth": "98.86%",
-    "uptimeYear": "89.17%",
-    "time": 1822,
-    "timeDay": 1140,
-    "timeWeek": 1466,
-    "timeMonth": 1201,
-    "timeYear": 1758,
+    "uptimeYear": "89.44%",
+    "time": 1808,
+    "timeDay": 1159,
+    "timeWeek": 1238,
+    "timeMonth": 1204,
+    "timeYear": 1742,
     "dailyMinutesDown": {
       "2025-06-03": 20,
       "2025-05-30": 21,
@@ -118,8 +118,7 @@
       "2024-06-10": 1440,
       "2024-06-09": 1440,
       "2024-06-08": 1440,
-      "2024-06-07": 1440,
-      "2024-06-06": 1440
+      "2024-06-07": 1440
     }
   },
   {
@@ -134,10 +133,10 @@
     "uptimeMonth": "99.83%",
     "uptimeYear": "99.55%",
     "time": 491,
-    "timeDay": 518,
-    "timeWeek": 508,
+    "timeDay": 488,
+    "timeWeek": 505,
     "timeMonth": 527,
-    "timeYear": 491,
+    "timeYear": 490,
     "dailyMinutesDown": {
       "2025-05-25": 62,
       "2025-05-11": 13,
@@ -192,18 +191,19 @@
     "icon": "https://ipfs.tech/favicon.ico",
     "slug": "ipfs-service",
     "status": "down",
-    "uptime": "14.55%",
+    "uptime": "14.53%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 453,
-    "timeDay": 524,
-    "timeWeek": 506,
+    "time": 454,
+    "timeDay": 494,
+    "timeWeek": 511,
     "timeMonth": 503,
     "timeYear": 455,
     "dailyMinutesDown": {
-      "2025-06-05": 60,
+      "2025-06-06": 60,
+      "2025-06-05": 1440,
       "2025-06-04": 1440,
       "2025-06-03": 1440,
       "2025-06-02": 1440,
@@ -566,8 +566,7 @@
       "2024-06-10": 1440,
       "2024-06-09": 1440,
       "2024-06-08": 1440,
-      "2024-06-07": 1440,
-      "2024-06-06": 1440
+      "2024-06-07": 1440
     }
   }
 ]
