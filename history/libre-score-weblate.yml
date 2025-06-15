@@ -1,7 +1,7 @@
 url: https://weblate.librescore.org/
-status: up
-code: 200
-responseTime: 590
-lastUpdated: 2025-06-15T07:09:27.620Z
+status: down
+code: 502
+responseTime: 358
+lastUpdated: 2025-06-15T08:11:41.834Z
 startTime: 2023-01-27T08:58:49.000Z
 generator: Upptime <https://github.com/upptime/upptime>
