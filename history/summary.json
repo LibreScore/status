@@ -5,16 +5,16 @@
     "icon": "https://raw.githubusercontent.com/LibreScore/dl-librescore/master/images/logo.png",
     "slug": "libre-score-app",
     "status": "up",
-    "uptime": "61.25%",
+    "uptime": "61.30%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.86%",
-    "uptimeYear": "94.36%",
-    "time": 1537,
-    "timeDay": 1023,
-    "timeWeek": 1079,
-    "timeMonth": 1228,
-    "timeYear": 1458,
+    "uptimeYear": "94.64%",
+    "time": 1521,
+    "timeDay": 1099,
+    "timeWeek": 1072,
+    "timeMonth": 1230,
+    "timeYear": 1442,
     "dailyMinutesDown": {
       "2025-06-09": 47,
       "2025-06-03": 20,
@@ -100,8 +100,7 @@
       "2024-06-29": 312,
       "2024-06-28": 1440,
       "2024-06-27": 1440,
-      "2024-06-26": 1440,
-      "2024-06-25": 1440
+      "2024-06-26": 1440
     }
   },
   {
@@ -116,8 +115,8 @@
     "uptimeMonth": "99.84%",
     "uptimeYear": "99.56%",
     "time": 492,
-    "timeDay": 484,
-    "timeWeek": 524,
+    "timeDay": 490,
+    "timeWeek": 511,
     "timeMonth": 524,
     "timeYear": 490,
     "dailyMinutesDown": {
@@ -172,18 +171,19 @@
     "icon": "https://ipfs.tech/favicon.ico",
     "slug": "ipfs-service",
     "status": "down",
-    "uptime": "14.22%",
+    "uptime": "14.20%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 458,
-    "timeDay": 504,
-    "timeWeek": 502,
+    "timeDay": 492,
+    "timeWeek": 497,
     "timeMonth": 502,
     "timeYear": 458,
     "dailyMinutesDown": {
-      "2025-06-24": 62,
+      "2025-06-25": 62,
+      "2025-06-24": 1440,
       "2025-06-23": 1440,
       "2025-06-22": 1440,
       "2025-06-21": 1440,
@@ -546,8 +546,7 @@
       "2024-06-29": 1440,
       "2024-06-28": 1440,
       "2024-06-27": 1440,
-      "2024-06-26": 1440,
-      "2024-06-25": 1440
+      "2024-06-26": 1440
     }
   }
 ]
