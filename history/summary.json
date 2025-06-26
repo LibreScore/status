@@ -5,16 +5,16 @@
     "icon": "https://raw.githubusercontent.com/LibreScore/dl-librescore/master/images/logo.png",
     "slug": "libre-score-app",
     "status": "up",
-    "uptime": "61.30%",
+    "uptime": "61.34%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.86%",
-    "uptimeYear": "94.64%",
-    "time": 1521,
-    "timeDay": 1099,
-    "timeWeek": 1072,
-    "timeMonth": 1230,
-    "timeYear": 1442,
+    "uptimeYear": "94.91%",
+    "time": 1506,
+    "timeDay": 1139,
+    "timeWeek": 1076,
+    "timeMonth": 1233,
+    "timeYear": 1426,
     "dailyMinutesDown": {
       "2025-06-09": 47,
       "2025-06-03": 20,
@@ -99,8 +99,7 @@
       "2024-07-01": 11,
       "2024-06-29": 312,
       "2024-06-28": 1440,
-      "2024-06-27": 1440,
-      "2024-06-26": 1440
+      "2024-06-27": 1440
     }
   },
   {
@@ -112,12 +111,12 @@
     "uptime": "98.51%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.84%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.56%",
     "time": 492,
-    "timeDay": 490,
-    "timeWeek": 511,
-    "timeMonth": 524,
+    "timeDay": 531,
+    "timeWeek": 513,
+    "timeMonth": 520,
     "timeYear": 490,
     "dailyMinutesDown": {
       "2025-06-15": 5,
@@ -171,18 +170,19 @@
     "icon": "https://ipfs.tech/favicon.ico",
     "slug": "ipfs-service",
     "status": "down",
-    "uptime": "14.20%",
+    "uptime": "14.19%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 458,
-    "timeDay": 492,
-    "timeWeek": 497,
-    "timeMonth": 502,
+    "time": 459,
+    "timeDay": 577,
+    "timeWeek": 512,
+    "timeMonth": 506,
     "timeYear": 458,
     "dailyMinutesDown": {
-      "2025-06-25": 62,
+      "2025-06-26": 61,
+      "2025-06-25": 1440,
       "2025-06-24": 1440,
       "2025-06-23": 1440,
       "2025-06-22": 1440,
@@ -545,8 +545,7 @@
       "2024-06-30": 1440,
       "2024-06-29": 1440,
       "2024-06-28": 1440,
-      "2024-06-27": 1440,
-      "2024-06-26": 1440
+      "2024-06-27": 1440
     }
   }
 ]
