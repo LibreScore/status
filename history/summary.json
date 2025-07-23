@@ -5,16 +5,16 @@
     "icon": "https://raw.githubusercontent.com/LibreScore/dl-librescore/master/images/logo.png",
     "slug": "libre-score-app",
     "status": "up",
-    "uptime": "62.42%",
+    "uptime": "62.46%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "95.58%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "98.94%",
     "uptimeYear": "98.85%",
-    "time": 1234,
-    "timeDay": 1201,
-    "timeWeek": 1376,
-    "timeMonth": 1173,
-    "timeYear": 1206,
+    "time": 1221,
+    "timeDay": 1359,
+    "timeWeek": 1163,
+    "timeMonth": 1184,
+    "timeYear": 1207,
     "dailyMinutesDown": {
       "2025-07-15": 445,
       "2025-07-02": 18,
@@ -81,8 +81,7 @@
       "2024-09-02": 223,
       "2024-08-27": 118,
       "2024-08-01": 100,
-      "2024-07-24": 151,
-      "2024-07-23": 156
+      "2024-07-24": 151
     }
   },
   {
@@ -91,16 +90,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/weblate.librescore.org.ico",
     "slug": "libre-score-weblate",
     "status": "up",
-    "uptime": "98.55%",
+    "uptime": "98.56%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.56%",
     "time": 491,
-    "timeDay": 536,
-    "timeWeek": 517,
+    "timeDay": 513,
+    "timeWeek": 515,
     "timeMonth": 517,
-    "timeYear": 491,
+    "timeYear": 492,
     "dailyMinutesDown": {
       "2025-07-02": 17,
       "2025-06-15": 5,
@@ -141,8 +140,7 @@
       "2024-08-11": 8,
       "2024-08-04": 15,
       "2024-07-28": 11,
-      "2024-07-24": 167,
-      "2024-07-23": 166
+      "2024-07-24": 167
     }
   },
   {
@@ -151,18 +149,19 @@
     "icon": "https://ipfs.tech/favicon.ico",
     "slug": "ipfs-service",
     "status": "down",
-    "uptime": "13.76%",
+    "uptime": "13.75%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 461,
-    "timeDay": 495,
-    "timeWeek": 508,
+    "timeDay": 500,
+    "timeWeek": 499,
     "timeMonth": 489,
     "timeYear": 461,
     "dailyMinutesDown": {
-      "2025-07-22": 64,
+      "2025-07-23": 66,
+      "2025-07-22": 1440,
       "2025-07-21": 1440,
       "2025-07-20": 1440,
       "2025-07-19": 1440,
@@ -525,8 +524,7 @@
       "2024-07-27": 1440,
       "2024-07-26": 1440,
       "2024-07-25": 1440,
-      "2024-07-24": 1440,
-      "2024-07-23": 1440
+      "2024-07-24": 1440
     }
   }
 ]
