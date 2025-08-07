@@ -5,14 +5,14 @@
     "icon": "https://raw.githubusercontent.com/LibreScore/dl-librescore/master/images/logo.png",
     "slug": "libre-score-app",
     "status": "up",
-    "uptime": "63.05%",
+    "uptime": "63.07%",
     "uptimeDay": "98.49%",
     "uptimeWeek": "99.61%",
     "uptimeMonth": "98.89%",
     "uptimeYear": "98.92%",
-    "time": 1204,
-    "timeDay": 1493,
-    "timeWeek": 1240,
+    "time": 1205,
+    "timeDay": 1423,
+    "timeWeek": 1239,
     "timeMonth": 1214,
     "timeYear": 1205,
     "dailyMinutesDown": {
@@ -96,9 +96,9 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.63%",
     "time": 496,
-    "timeDay": 565,
-    "timeWeek": 644,
-    "timeMonth": 551,
+    "timeDay": 569,
+    "timeWeek": 645,
+    "timeMonth": 552,
     "timeYear": 496,
     "dailyMinutesDown": {
       "2025-07-31": 18,
@@ -152,13 +152,14 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 463,
-    "timeDay": 598,
+    "time": 464,
+    "timeDay": 604,
     "timeWeek": 519,
-    "timeMonth": 501,
+    "timeMonth": 504,
     "timeYear": 463,
     "dailyMinutesDown": {
-      "2025-08-06": 896,
+      "2025-08-07": 66,
+      "2025-08-06": 1440,
       "2025-08-05": 1440,
       "2025-08-04": 1440,
       "2025-08-03": 1440,
@@ -521,8 +522,7 @@
       "2024-08-11": 1440,
       "2024-08-10": 1440,
       "2024-08-09": 1440,
-      "2024-08-08": 1440,
-      "2024-08-07": 1440
+      "2024-08-08": 1440
     }
   }
 ]
