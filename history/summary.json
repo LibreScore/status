@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.64%",
     "uptimeYear": "98.96%",
-    "time": 1215,
-    "timeDay": 1267,
-    "timeWeek": 1214,
-    "timeMonth": 1273,
+    "time": 1216,
+    "timeDay": 1359,
+    "timeWeek": 1243,
+    "timeMonth": 1276,
     "timeYear": 1214,
     "dailyMinutesDown": {
       "2025-08-24": 44,
@@ -81,8 +81,7 @@
       "2024-10-02": 21,
       "2024-09-19": 118,
       "2024-09-18": 612,
-      "2024-09-12": 67,
-      "2024-09-06": 106
+      "2024-09-12": 67
     }
   },
   {
@@ -91,16 +90,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/weblate.librescore.org.ico",
     "slug": "libre-score-weblate",
     "status": "up",
-    "uptime": "98.59%",
+    "uptime": "98.60%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.65%",
     "uptimeYear": "99.52%",
     "time": 506,
-    "timeDay": 590,
-    "timeWeek": 582,
+    "timeDay": 556,
+    "timeWeek": 586,
     "timeMonth": 608,
-    "timeYear": 506,
+    "timeYear": 507,
     "dailyMinutesDown": {
       "2025-08-24": 26,
       "2025-08-18": 74,
@@ -147,18 +146,19 @@
     "icon": "https://ipfs.tech/favicon.ico",
     "slug": "ipfs-service",
     "status": "down",
-    "uptime": "13.09%",
+    "uptime": "13.07%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 480,
-    "timeDay": 737,
-    "timeWeek": 608,
+    "timeDay": 606,
+    "timeWeek": 611,
     "timeMonth": 656,
     "timeYear": 481,
     "dailyMinutesDown": {
-      "2025-09-05": 55,
+      "2025-09-06": 53,
+      "2025-09-05": 1440,
       "2025-09-04": 1440,
       "2025-09-03": 1440,
       "2025-09-02": 1440,
@@ -521,8 +521,7 @@
       "2024-09-10": 1440,
       "2024-09-09": 1440,
       "2024-09-08": 1440,
-      "2024-09-07": 1440,
-      "2024-09-06": 1440
+      "2024-09-07": 1440
     }
   }
 ]
