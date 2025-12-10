@@ -11,9 +11,9 @@
     "uptimeMonth": "98.07%",
     "uptimeYear": "98.87%",
     "time": 1217,
-    "timeDay": 1383,
-    "timeWeek": 1578,
-    "timeMonth": 1288,
+    "timeDay": 1391,
+    "timeWeek": 1579,
+    "timeMonth": 1289,
     "timeYear": 1219,
     "dailyMinutesDown": {
       "2025-12-09": 61,
@@ -91,14 +91,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/weblate.librescore.org.ico",
     "slug": "libre-score-weblate",
     "status": "up",
-    "uptime": "98.62%",
+    "uptime": "98.63%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "96.53%",
     "uptimeYear": "99.46%",
     "time": 522,
-    "timeDay": 553,
-    "timeWeek": 565,
+    "timeDay": 548,
+    "timeWeek": 564,
     "timeMonth": 530,
     "timeYear": 523,
     "dailyMinutesDown": {
@@ -149,12 +149,13 @@
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 486,
-    "timeDay": 443,
-    "timeWeek": 488,
-    "timeMonth": 468,
-    "timeYear": 486,
+    "timeDay": 506,
+    "timeWeek": 487,
+    "timeMonth": 463,
+    "timeYear": 487,
     "dailyMinutesDown": {
-      "2025-12-09": 1095,
+      "2025-12-10": 63,
+      "2025-12-09": 1440,
       "2025-12-08": 1440,
       "2025-12-07": 1440,
       "2025-12-06": 1440,
@@ -517,8 +518,7 @@
       "2024-12-14": 1440,
       "2024-12-13": 1440,
       "2024-12-12": 1440,
-      "2024-12-11": 1440,
-      "2024-12-10": 1440
+      "2024-12-11": 1440
     }
   }
 ]
