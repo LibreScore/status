@@ -6,14 +6,14 @@
     "slug": "libre-score-app",
     "status": "down",
     "uptime": "99.56%",
-    "uptimeDay": "66.08%",
+    "uptimeDay": "67.33%",
     "uptimeWeek": "87.28%",
     "uptimeMonth": "88.20%",
-    "uptimeYear": "98.71%",
+    "uptimeYear": "98.72%",
     "time": 1308,
-    "timeDay": 3752,
-    "timeWeek": 2853,
-    "timeMonth": 2190,
+    "timeDay": 3740,
+    "timeWeek": 2863,
+    "timeMonth": 2192,
     "timeYear": 1311,
     "dailyMinutesDown": {
       "2026-01-04": 321,
@@ -53,7 +53,7 @@
       "2025-07-31": 18,
       "2025-07-15": 445,
       "2025-07-02": 18,
-      "2025-06-09": 47
+      "2025-06-09": 12
     }
   },
   {
@@ -126,7 +126,7 @@
     "timeMonth": 501,
     "timeYear": 491,
     "dailyMinutesDown": {
-      "2026-01-04": 1030,
+      "2026-01-04": 1048,
       "2026-01-03": 1440,
       "2026-01-02": 1440,
       "2026-01-01": 1440,
