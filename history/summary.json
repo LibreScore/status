@@ -4,17 +4,17 @@
     "url": "https://status.librescore.org/app-server",
     "icon": "https://raw.githubusercontent.com/LibreScore/dl-librescore/master/images/logo.png",
     "slug": "libre-score-app",
-    "status": "up",
+    "status": "down",
     "uptime": "99.59%",
-    "uptimeDay": "74.90%",
+    "uptimeDay": "75.48%",
     "uptimeWeek": "84.87%",
     "uptimeMonth": "87.62%",
     "uptimeYear": "98.79%",
-    "time": 1316,
-    "timeDay": 3470,
-    "timeWeek": 3021,
-    "timeMonth": 2260,
-    "timeYear": 1319,
+    "time": 1317,
+    "timeDay": 3541,
+    "timeWeek": 3031,
+    "timeMonth": 2264,
+    "timeYear": 1320,
     "dailyMinutesDown": {
       "2026-01-05": 148,
       "2026-01-04": 426,
@@ -45,8 +45,7 @@
       "2025-10-21": 362,
       "2025-10-20": 113,
       "2025-09-13": 120,
-      "2025-09-09": 36,
-      "2025-08-24": 28
+      "2025-09-09": 36
     }
   },
   {
@@ -119,7 +118,7 @@
     "timeMonth": 500,
     "timeYear": 491,
     "dailyMinutesDown": {
-      "2026-01-05": 616,
+      "2026-01-05": 637,
       "2026-01-04": 1440,
       "2026-01-03": 1440,
       "2026-01-02": 1440,
