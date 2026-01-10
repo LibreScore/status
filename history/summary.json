@@ -4,16 +4,16 @@
     "url": "https://status.librescore.org/app-server",
     "icon": "https://raw.githubusercontent.com/LibreScore/dl-librescore/master/images/logo.png",
     "slug": "libre-score-app",
-    "status": "up",
+    "status": "down",
     "uptime": "99.82%",
-    "uptimeDay": "58.96%",
-    "uptimeWeek": "73.31%",
-    "uptimeMonth": "93.49%",
+    "uptimeDay": "58.95%",
+    "uptimeWeek": "73.45%",
+    "uptimeMonth": "93.57%",
     "uptimeYear": "99.46%",
-    "time": 1369,
-    "timeDay": 3840,
+    "time": 1370,
+    "timeDay": 3889,
     "timeWeek": 3520,
-    "timeMonth": 2606,
+    "timeMonth": 2610,
     "timeYear": 1374,
     "dailyMinutesDown": {
       "2026-01-10": 375,
@@ -24,7 +24,7 @@
       "2026-01-05": 167,
       "2026-01-04": 426,
       "2026-01-03": 281,
-      "2026-01-02": 62
+      "2026-01-02": 25
     }
   },
   {
@@ -39,8 +39,8 @@
     "uptimeMonth": "99.29%",
     "uptimeYear": "99.40%",
     "time": 541,
-    "timeDay": 529,
-    "timeWeek": 543,
+    "timeDay": 521,
+    "timeWeek": 541,
     "timeMonth": 694,
     "timeYear": 542,
     "dailyMinutesDown": {
@@ -92,12 +92,12 @@
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 491,
-    "timeDay": 476,
+    "timeDay": 477,
     "timeWeek": 505,
     "timeMonth": 503,
     "timeYear": 492,
     "dailyMinutesDown": {
-      "2026-01-10": 1016,
+      "2026-01-10": 1030,
       "2026-01-09": 1440,
       "2026-01-08": 1440,
       "2026-01-07": 1440,
