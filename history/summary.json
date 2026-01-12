@@ -6,13 +6,13 @@
     "slug": "libre-score-app",
     "status": "up",
     "uptime": "99.81%",
-    "uptimeDay": "65.06%",
-    "uptimeWeek": "72.75%",
+    "uptimeDay": "65.26%",
+    "uptimeWeek": "73.37%",
     "uptimeMonth": "93.27%",
     "uptimeYear": "99.44%",
     "time": 1386,
-    "timeDay": 3984,
-    "timeWeek": 3570,
+    "timeDay": 3998,
+    "timeWeek": 3545,
     "timeMonth": 2739,
     "timeYear": 1393,
     "dailyMinutesDown": {
@@ -38,7 +38,7 @@
     "uptimeMonth": "99.29%",
     "uptimeYear": "99.40%",
     "time": 541,
-    "timeDay": 543,
+    "timeDay": 542,
     "timeWeek": 529,
     "timeMonth": 696,
     "timeYear": 543,
@@ -91,12 +91,13 @@
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 492,
-    "timeDay": 522,
-    "timeWeek": 502,
+    "timeDay": 520,
+    "timeWeek": 501,
     "timeMonth": 503,
     "timeYear": 493,
     "dailyMinutesDown": {
-      "2026-01-11": 1437,
+      "2026-01-12": 68,
+      "2026-01-11": 1440,
       "2026-01-10": 1440,
       "2026-01-09": 1440,
       "2026-01-08": 1440,
@@ -459,8 +460,7 @@
       "2025-01-16": 1440,
       "2025-01-15": 1440,
       "2025-01-14": 1440,
-      "2025-01-13": 1440,
-      "2025-01-12": 1440
+      "2025-01-13": 1440
     }
   }
 ]
