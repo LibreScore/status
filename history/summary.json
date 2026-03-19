@@ -11,9 +11,9 @@
     "uptimeMonth": "98.01%",
     "uptimeYear": "98.88%",
     "time": 1447,
-    "timeDay": 3404,
-    "timeWeek": 1434,
-    "timeMonth": 1232,
+    "timeDay": 3415,
+    "timeWeek": 1440,
+    "timeMonth": 1231,
     "timeYear": 1450,
     "dailyMinutesDown": {
       "2026-03-18": 601,
@@ -52,9 +52,9 @@
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.40%",
     "time": 548,
-    "timeDay": 489,
+    "timeDay": 501,
     "timeWeek": 487,
-    "timeMonth": 471,
+    "timeMonth": 472,
     "timeYear": 549,
     "dailyMinutesDown": {
       "2026-03-17": 40,
@@ -96,18 +96,19 @@
     "icon": "https://ipfs.tech/favicon.ico",
     "slug": "ipfs-service",
     "status": "down",
-    "uptime": "10.80%",
+    "uptime": "10.79%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
     "uptimeYear": "0.00%",
     "time": 494,
-    "timeDay": 364,
-    "timeWeek": 394,
-    "timeMonth": 396,
+    "timeDay": 340,
+    "timeWeek": 382,
+    "timeMonth": 394,
     "timeYear": 495,
     "dailyMinutesDown": {
-      "2026-03-18": 855,
+      "2026-03-19": 82,
+      "2026-03-18": 1440,
       "2026-03-17": 1440,
       "2026-03-16": 1440,
       "2026-03-15": 1440,
@@ -470,8 +471,7 @@
       "2025-03-23": 1440,
       "2025-03-22": 1440,
       "2025-03-21": 1440,
-      "2025-03-20": 1440,
-      "2025-03-19": 1440
+      "2025-03-20": 1440
     }
   }
 ]
