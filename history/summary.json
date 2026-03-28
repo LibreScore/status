@@ -11,8 +11,8 @@
     "uptimeMonth": "98.06%",
     "uptimeYear": "98.88%",
     "time": 1447,
-    "timeDay": 1117,
-    "timeWeek": 1172,
+    "timeDay": 1057,
+    "timeWeek": 1170,
     "timeMonth": 1215,
     "timeYear": 1453,
     "dailyMinutesDown": {
@@ -47,14 +47,14 @@
     "slug": "libre-score-weblate",
     "status": "up",
     "uptime": "98.74%",
-    "uptimeDay": "97.10%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.40%",
     "uptimeMonth": "99.73%",
     "uptimeYear": "99.39%",
-    "time": 549,
-    "timeDay": 454,
+    "time": 548,
+    "timeDay": 428,
     "timeWeek": 513,
-    "timeMonth": 479,
+    "timeMonth": 477,
     "timeYear": 552,
     "dailyMinutesDown": {
       "2026-03-26": 42,
@@ -97,18 +97,19 @@
     "icon": "https://ipfs.tech/favicon.ico",
     "slug": "ipfs-service",
     "status": "down",
-    "uptime": "10.71%",
+    "uptime": "10.70%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
     "uptimeYear": "0.00%",
     "time": 493,
-    "timeDay": 386,
-    "timeWeek": 409,
+    "timeDay": 347,
+    "timeWeek": 417,
     "timeMonth": 389,
     "timeYear": 496,
     "dailyMinutesDown": {
-      "2026-03-27": 87,
+      "2026-03-28": 80,
+      "2026-03-27": 1440,
       "2026-03-26": 1440,
       "2026-03-25": 1440,
       "2026-03-24": 1440,
@@ -471,8 +472,7 @@
       "2025-04-01": 1440,
       "2025-03-31": 1440,
       "2025-03-30": 1440,
-      "2025-03-29": 1440,
-      "2025-03-28": 1440
+      "2025-03-29": 1440
     }
   }
 ]
