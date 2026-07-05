@@ -10,9 +10,9 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "75.73%",
-    "time": 2086,
-    "timeDay": 5484,
-    "timeWeek": 5497,
+    "time": 2087,
+    "timeDay": 5478,
+    "timeWeek": 5496,
     "timeMonth": 5480,
     "timeYear": 2101,
     "dailyMinutesDown": {
@@ -45,7 +45,7 @@
       "2026-04-05": 203,
       "2026-04-06": 96,
       "2026-04-07": 1140,
-      "2026-07-05": 1133,
+      "2026-07-05": 1138,
       "2026-07-04": 1440,
       "2026-07-03": 1440,
       "2026-07-02": 1440,
@@ -136,15 +136,15 @@
     "url": "https://weblate.librescore.org/",
     "icon": "https://icons.duckduckgo.com/ip3/weblate.librescore.org.ico",
     "slug": "libre-score-weblate",
-    "status": "up",
-    "uptime": "98.31%",
-    "uptimeDay": "75.24%",
+    "status": "down",
+    "uptime": "98.33%",
+    "uptimeDay": "75.20%",
     "uptimeWeek": "96.46%",
     "uptimeMonth": "76.77%",
     "uptimeYear": "94.86%",
     "time": 551,
-    "timeDay": 399,
-    "timeWeek": 434,
+    "timeDay": 384,
+    "timeWeek": 431,
     "timeMonth": 431,
     "timeYear": 551,
     "dailyMinutesDown": {
@@ -193,7 +193,7 @@
       "2026-06-15": 1440,
       "2026-06-14": 173,
       "2026-06-21": 55,
-      "2026-07-05": 357
+      "2026-07-05": 358
     }
   },
   {
@@ -213,7 +213,7 @@
     "timeMonth": 106,
     "timeYear": 462,
     "dailyMinutesDown": {
-      "2026-07-05": 1134,
+      "2026-07-05": 1139,
       "2026-07-04": 1440,
       "2026-07-03": 1440,
       "2026-07-02": 1440,
