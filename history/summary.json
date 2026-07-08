@@ -5,16 +5,16 @@
     "icon": "https://raw.githubusercontent.com/LibreScore/dl-librescore/master/images/logo.png",
     "slug": "libre-score-app",
     "status": "down",
-    "uptime": "92.79%",
+    "uptime": "92.78%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "75.12%",
+    "uptimeYear": "75.11%",
     "time": 2099,
-    "timeDay": 5517,
-    "timeWeek": 5503,
+    "timeDay": 5516,
+    "timeWeek": 5504,
     "timeMonth": 5486,
-    "timeYear": 2118,
+    "timeYear": 2119,
     "dailyMinutesDown": {
       "2026-01-10": 284,
       "2026-01-11": 500,
@@ -45,7 +45,8 @@
       "2026-04-05": 203,
       "2026-04-06": 96,
       "2026-04-07": 1140,
-      "2026-07-07": 1424,
+      "2026-07-08": 71,
+      "2026-07-07": 1440,
       "2026-07-06": 1440,
       "2026-07-05": 1440,
       "2026-07-04": 1440,
@@ -138,16 +139,16 @@
     "url": "https://weblate.librescore.org/",
     "icon": "https://icons.duckduckgo.com/ip3/weblate.librescore.org.ico",
     "slug": "libre-score-weblate",
-    "status": "up",
-    "uptime": "98.22%",
-    "uptimeDay": "18.88%",
-    "uptimeWeek": "70.73%",
-    "uptimeMonth": "70.85%",
+    "status": "down",
+    "uptime": "98.23%",
+    "uptimeDay": "19.90%",
+    "uptimeWeek": "70.72%",
+    "uptimeMonth": "70.84%",
     "uptimeYear": "94.36%",
     "time": 549,
-    "timeDay": 275,
-    "timeWeek": 361,
-    "timeMonth": 409,
+    "timeDay": 272,
+    "timeWeek": 357,
+    "timeMonth": 408,
     "timeYear": 550,
     "dailyMinutesDown": {
       "2025-07-31": 18,
@@ -197,7 +198,8 @@
       "2026-06-21": 55,
       "2026-07-05": 623,
       "2026-07-06": 1171,
-      "2026-07-07": 1156
+      "2026-07-07": 1156,
+      "2026-07-08": 1
     }
   },
   {
@@ -212,12 +214,13 @@
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 460,
-    "timeDay": 79,
+    "timeDay": 82,
     "timeWeek": 74,
     "timeMonth": 99,
     "timeYear": 461,
     "dailyMinutesDown": {
-      "2026-07-07": 1425,
+      "2026-07-08": 73,
+      "2026-07-07": 1440,
       "2026-07-06": 1440,
       "2026-07-05": 1440,
       "2026-07-04": 1440,
@@ -580,8 +583,7 @@
       "2025-07-12": 1440,
       "2025-07-11": 1440,
       "2025-07-10": 1440,
-      "2025-07-09": 1440,
-      "2025-07-08": 1440
+      "2025-07-09": 1440
     }
   }
 ]
