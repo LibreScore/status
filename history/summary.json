@@ -5,16 +5,16 @@
     "icon": "https://raw.githubusercontent.com/LibreScore/dl-librescore/master/images/logo.png",
     "slug": "libre-score-app",
     "status": "down",
-    "uptime": "88.77%",
+    "uptime": "88.76%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "59.52%",
-    "time": 2665,
-    "timeDay": 5646,
-    "timeWeek": 5547,
+    "uptimeYear": "59.48%",
+    "time": 2666,
+    "timeDay": 5582,
+    "timeWeek": 5546,
     "timeMonth": 5531,
-    "timeYear": 2689,
+    "timeYear": 2690,
     "dailyMinutesDown": {
       "2026-01-10": 284,
       "2026-01-11": 500,
@@ -45,7 +45,8 @@
       "2026-04-05": 203,
       "2026-04-06": 96,
       "2026-04-07": 1140,
-      "2026-09-02": 1382,
+      "2026-09-03": 130,
+      "2026-09-02": 1440,
       "2026-09-01": 1440,
       "2026-08-31": 1440,
       "2026-08-30": 1440,
@@ -196,14 +197,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/weblate.librescore.org.ico",
     "slug": "libre-score-weblate",
     "status": "down",
-    "uptime": "97.74%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "83.84%",
-    "uptimeMonth": "96.28%",
-    "uptimeYear": "92.41%",
+    "uptime": "97.73%",
+    "uptimeDay": "86.82%",
+    "uptimeWeek": "81.97%",
+    "uptimeMonth": "95.85%",
+    "uptimeYear": "92.38%",
     "time": 536,
-    "timeDay": 510,
-    "timeWeek": 419,
+    "timeDay": 463,
+    "timeWeek": 411,
     "timeMonth": 497,
     "timeYear": 535,
     "dailyMinutesDown": {
@@ -261,7 +262,8 @@
       "2026-08-02": 40,
       "2026-08-30": 634,
       "2026-08-29": 993,
-      "2026-09-02": 2
+      "2026-09-03": 131,
+      "2026-09-02": 59
     }
   },
   {
@@ -276,12 +278,13 @@
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 404,
-    "timeDay": 303,
-    "timeWeek": 213,
-    "timeMonth": 176,
+    "timeDay": 304,
+    "timeWeek": 212,
+    "timeMonth": 177,
     "timeYear": 397,
     "dailyMinutesDown": {
-      "2026-09-02": 1383,
+      "2026-09-03": 132,
+      "2026-09-02": 1440,
       "2026-09-01": 1440,
       "2026-08-31": 1440,
       "2026-08-30": 1440,
@@ -644,8 +647,7 @@
       "2025-09-07": 1440,
       "2025-09-06": 1440,
       "2025-09-05": 1440,
-      "2025-09-04": 1440,
-      "2025-09-03": 1440
+      "2025-09-04": 1440
     }
   }
 ]
