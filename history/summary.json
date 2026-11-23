@@ -5,16 +5,16 @@
     "icon": "https://raw.githubusercontent.com/LibreScore/dl-librescore/master/images/logo.png",
     "slug": "libre-score-app",
     "status": "down",
-    "uptime": "83.73%",
+    "uptime": "83.72%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "37.75%",
+    "uptimeYear": "37.73%",
     "time": 3333,
     "timeDay": 5477,
     "timeWeek": 5522,
     "timeMonth": 5529,
-    "timeYear": 3406,
+    "timeYear": 3407,
     "dailyMinutesDown": {
       "2026-01-08": 146,
       "2026-01-09": 519,
@@ -29,7 +29,8 @@
       "2026-01-19": 67,
       "2026-01-20": 286,
       "2026-01-21": 241,
-      "2026-11-22": 1342,
+      "2026-11-23": 25,
+      "2026-11-22": 1440,
       "2026-11-21": 1440,
       "2026-11-20": 1440,
       "2026-11-19": 1440,
@@ -260,19 +261,18 @@
     "url": "https://weblate.librescore.org/",
     "icon": "https://icons.duckduckgo.com/ip3/weblate.librescore.org.ico",
     "slug": "libre-score-weblate",
-    "status": "down",
+    "status": "up",
     "uptime": "97.05%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "89.74%",
-    "uptimeYear": "89.29%",
+    "uptimeDay": "91.47%",
+    "uptimeWeek": "98.78%",
+    "uptimeMonth": "89.46%",
+    "uptimeYear": "89.27%",
     "time": 536,
-    "timeDay": 12852,
-    "timeWeek": 2163,
+    "timeDay": 9747,
+    "timeWeek": 2088,
     "timeMonth": 897,
     "timeYear": 538,
     "dailyMinutesDown": {
-      "2025-11-23": 2,
       "2025-11-29": 429,
       "2025-11-28": 1009,
       "2025-12-02": 51,
@@ -336,7 +336,8 @@
       "2026-11-01": 260,
       "2026-11-05": 1368,
       "2026-11-04": 1336,
-      "2026-11-22": 2
+      "2026-11-23": 25,
+      "2026-11-22": 98
     }
   },
   {
@@ -353,10 +354,11 @@
     "time": 348,
     "timeDay": 89,
     "timeWeek": 109,
-    "timeMonth": 120,
+    "timeMonth": 119,
     "timeYear": 346,
     "dailyMinutesDown": {
-      "2026-11-22": 1344,
+      "2026-11-23": 27,
+      "2026-11-22": 1440,
       "2026-11-21": 1440,
       "2026-11-20": 1440,
       "2026-11-19": 1440,
@@ -719,8 +721,7 @@
       "2025-11-27": 1440,
       "2025-11-26": 1440,
       "2025-11-25": 1440,
-      "2025-11-24": 1440,
-      "2025-11-23": 1440
+      "2025-11-24": 1440
     }
   }
 ]
